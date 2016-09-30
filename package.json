@@ -1,0 +1,15 @@
+{
+  "name": "react-tabbar-navigator",
+  "version": "1.0.4",
+  "description": "React Native Tabbar Navigation",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "tabbar",
+    "navigation"
+  ],
+  "author": "Md Islam <md.islam007@rutgers.edu> (http://mdislam.com)",
+  "license": "ISC"
+}
