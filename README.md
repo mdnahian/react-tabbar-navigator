@@ -1,7 +1,7 @@
 # react-tabbar-navigator
 React Native Tabbar Navigation
 
-![Demo](https://github.com/mdnahian/react-tabbar-navigator/blob/master/screenshot.png =250x)
+![Demo](https://github.com/mdnahian/react-tabbar-navigator/blob/master/screenshot.png)
 
 ### Install
 ```shell
